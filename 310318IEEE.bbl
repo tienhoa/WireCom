@@ -1,0 +1,170 @@
+\begin{thebibliography}{10}
+
+\bibitem{Luo2012}
+Wantuan Luo, Ruiqiang Zhang, and Xuming Fang.
+\newblock A comp soft handover scheme for lte systems in high speed railway.
+\newblock {\em EURASIP Journal on Wireless Communications and Networking},
+  2012(1):1--9, 2012.
+
+\bibitem{Fokum2010}
+Daniel~T Fokum and Victor~S Frost.
+\newblock A survey on methods for broadband internet access on trains.
+\newblock {\em IEEE communications surveys \& tutorials}, 12(2):171--185, 2010.
+
+\bibitem{Banerjee2016}
+Subharthi Banerjee, Hamid Sharif, et~al.
+\newblock A survey of wireless communication technologies \& their performance
+  for high speed railways.
+\newblock {\em Journal of Transportation Technologies}, 6(01):15, 2016.
+
+\bibitem{Barhumi2005}
+Imad Barhumi, Geert Leus, and Marc Moonen.
+\newblock Mmse estimation of basis expansion models for rapidly time-varying
+  channels.
+\newblock In {\em Signal Processing Conference, 2005 13th European}, pages
+  1--5. IEEE, 2005.
+
+\bibitem{Hu2003}
+Die Hu and Luxi Yang.
+\newblock Time-varying channel estimation based on pilot tones in ofdm systems.
+\newblock In {\em Neural Networks and Signal Processing, 2003. Proceedings of
+  the 2003 International Conference on}, volume~1, pages 700--703. IEEE, 2003.
+
+\bibitem{Tang2007}
+Zijian Tang, Rocco~Claudio Cannizzaro, Geert Leus, and Paolo Banelli.
+\newblock Pilot-assisted time-varying channel estimation for ofdm systems.
+\newblock {\em IEEE Transactions on Signal Processing}, 55(5):2226--2238, 2007.
+
+\bibitem{Park2005}
+Kyung~Won Park and Yong~Soo Cho.
+\newblock An mimo-ofdm technique for high-speed mobile channels.
+\newblock {\em IEEE Communications Letters}, 9(7):604--606, 2005.
+
+\bibitem{Cavers1991}
+James~K Cavers.
+\newblock An analysis of pilot symbol assisted modulation for rayleigh fading
+  channels (mobile radio).
+\newblock {\em IEEE transactions on vehicular technology}, 40(4):686--693,
+  1991.
+
+\bibitem{Lau1994}
+HK~Lau and SW~Cheung.
+\newblock A pilot symbol-aided technique used for digital signals in multipath
+  environments.
+\newblock In {\em Communications, 1994. ICC'94, SUPERCOMM/ICC'94, Conference
+  Record,'Serving Humanity Through Communications.'IEEE International
+  Conference on}, pages 1126--1130. IEEE, 1994.
+
+\bibitem{Mostofi2005}
+Yasamin Mostofi and Donald~C Cox.
+\newblock Ici mitigation for pilot-aided ofdm mobile systems.
+\newblock {\em IEEE Transactions on Wireless Communications}, 4(2):765--774,
+  2005.
+
+\bibitem{Hijazi2009}
+Hussein Hijazi and Laurent Ros.
+\newblock Polynomial estimation of time-varying multipath gains with
+  intercarrier interference mitigation in ofdm systems.
+\newblock {\em IEEE Transactions on Vehicular Technology}, 58(1):140--151,
+  2009.
+
+\bibitem{Simko2011}
+Michal Simko, Christian Mehlfuhrer, Thomas Zemen, and Markus Rupp.
+\newblock Inter-carrier interference estimation in mimo ofdm systems with
+  arbitrary pilot structure.
+\newblock In {\em Vehicular Technology Conference (VTC Spring), 2011 IEEE
+  73rd}, pages 1--5. IEEE, 2011.
+
+\bibitem{Kaufman1983}
+Howard Kaufman, J~Woods, Subrahmanyam Dravida, and A~Tekalp.
+\newblock Estimation and identification of two-dimensional images.
+\newblock {\em IEEE transactions on automatic control}, 28(7):745--756, 1983.
+
+\bibitem{Edfors1998}
+Ove Edfors, Magnus Sandell, J-J Van~de Beek, Sarah~Kate Wilson, and Per~Ola
+  Borjesson.
+\newblock Ofdm channel estimation by singular value decomposition.
+\newblock {\em IEEE Transactions on communications}, 46(7):931--939, 1998.
+
+\bibitem{Adireddy2002}
+Srihari Adireddy, Lang Tong, and Harish Viswanathan.
+\newblock Optimal placement of training for frequency-selective block-fading
+  channels.
+\newblock {\em IEEE Transactions on Information Theory}, 48(8):2338--2353,
+  2002.
+
+\bibitem{Fan2014}
+Zhenkai Fan, Zhaohua Lu, and Yanjun Han.
+\newblock Accurate channel estimation based on bayesian compressive sensing for
+  next-generation wireless broadcasting systems.
+\newblock In {\em Broadband Multimedia Systems and Broadcasting (BMSB), 2014
+  IEEE International Symposium on}, pages 1--5. IEEE, 2014.
+
+\bibitem{Guan2011}
+Ke~Guan, Zhangdui Zhong, and Bo~Ai.
+\newblock Assessment of lte-r using high speed railway channel model.
+\newblock In {\em Communications and Mobile Computing (CMC), 2011 Third
+  International Conference on}, pages 461--464. IEEE, 2011.
+
+\bibitem{Matz2011}
+Gerald Matz and Franz Hlawatsch.
+\newblock Fundamentals of time-varying communication channels.
+\newblock {\em Wireless Communications over Rapidly Time-Varying Channels, F.
+  Hlawatsch and G. Matz, Eds. Academic Press}, pages 1--63, 2011.
+
+\bibitem{Nguyen2004}
+VD~Nguyen and M~P{\"a}tzold.
+\newblock Least square channel estimation using special training sequences for
+  mimo-ofdm systems in the presence of intersymbol interference.
+\newblock In {\em Nordic Radio Symposium (NRS), Oulu, Finland}, 2004.
+
+\bibitem{Jeon1999}
+Won~Gi Jeon, Kyung~Hi Chang, and Yong~Soo Cho.
+\newblock An equalization technique for orthogonal frequency-division
+  multiplexing systems in time-variant multipath channels.
+\newblock {\em IEEE Transactions on Communications}, 47(1):27--32, 1999.
+
+\bibitem{Cai2003}
+Xiaodong Cai and Georgios~B Giannakis.
+\newblock Bounding performance and suppressing intercarrier interference in
+  wireless mobile ofdm.
+\newblock {\em IEEE Transactions on Communications}, 51(12):2047--2056, 2003.
+
+\bibitem{Hsu2009}
+Chao-Yuan Hsu and Wen-Rong Wu.
+\newblock Low-complexity ici mitigation methods for high-mobility
+  siso/mimo-ofdm systems.
+\newblock {\em IEEE Transactions on vehicular technology}, 58(6):2755--2768,
+  2009.
+
+\bibitem{Liu2012}
+Guanghui Liu, Sergey~V Zhidkov, Hongliang Li, Liaoyuan Zeng, and Zhengning
+  Wang.
+\newblock Low-complexity iterative equalization for symbol-reconstruction-based
+  ofdm receivers over doubly selective channels.
+\newblock {\em IEEE Transactions on Broadcasting}, 58(3):390--400, 2012.
+
+\bibitem{Schniter2004}
+Philip Schniter.
+\newblock Low-complexity equalization of ofdm in doubly selective channels.
+\newblock {\em IEEE Transactions on Signal processing}, 52(4):1002--1011, 2004.
+
+\bibitem{Fang2007}
+Kun Fang and Geert Leus.
+\newblock Low-complexity block turbo equalization for ofdm systems in time-and
+  frequency-selective channels.
+\newblock In {\em The Third Annual IEEE BENELUX/DSP Valley Signal Processing
+  Symposium}, pages 83--87, 2007.
+
+\bibitem{Fritsch1980}
+Frederick~N Fritsch and Ralph~E Carlson.
+\newblock Monotone piecewise cubic interpolation.
+\newblock {\em SIAM Journal on Numerical Analysis}, 17(2):238--246, 1980.
+
+\bibitem{Qiu2010}
+J~Qiu, C~Tao, and LIU Liu.
+\newblock A novel ofdm channel estimation algorithm with ici mitigation over
+  fast fading channels.
+\newblock {\em Radioengineering}, 2010.
+
+\end{thebibliography}
